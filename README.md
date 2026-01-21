@@ -1,2 +1,2 @@
 # formulario_HTML-CSS
-Formulário desenvolvido durante curso da Udemy, utilizando HTML e CSS
+Formulário desenvolvido a partir de um desafio proposto em curso da Udemy, utilizando HTML e CSS.
